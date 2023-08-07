@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Chatsworth64
 - 👀 I’m interested in automation, Endpoint Management and most things IT
-- 🌱 I’m currently learning Azure web hooks
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me, hmm ?
 
